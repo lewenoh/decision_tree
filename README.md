@@ -13,13 +13,10 @@ pip install numpy matplotlib
 Run
 - Open a terminal in the repository folder (Coursework1).
 - Ensure `clean_dataset.txt` and `noisy_dataset.txt` are in the same folder as the script.
-- Run the script (adjust filename if yours has a .py extension):
+- Activate the virtual environment with: `source /vol/lab/ml/intro2ml/bin/activate`
+- Run the script:
 ```
 python main.py
-```
-or, if the file is named without extension and executable on your system:
-```
-python .\main
 ```
 
 What it does
